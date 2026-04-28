@@ -50,6 +50,12 @@ This project aims to bridge the gap between farmers and modern agricultural reso
 
 ---
 
+### 🔌 Swagger API Integration
+- API documentation using Swagger (OpenAPI)
+- Easy testing of backend APIs
+- Clear request and response structure
+- Better developer experience for future scaling
+
 ## 🛠️ Tech Stack
 
 ### Frontend
